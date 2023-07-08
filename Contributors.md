@@ -64,6 +64,7 @@
 - [Lanzi Danilo] (https://github.com/Tano73)
 - [Olayinka Okanlawon](https://github.com/olayinkagrace)
 - [Sohail khan](https://github.com/Sohail700)
+- [Lisa Augier] (https://github.com/saltequil)
 - [Amrita Sharma](https://github.com/amritash1403)
 - [Gary Mejia](https://github.com/garymejia)
 - [Core447](https://github.com/Core447)
